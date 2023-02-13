@@ -56,3 +56,16 @@
 .rodapePrincipal-contatoForm-fieldset {
     display: flex;
 }
+
+/*MOBILE*/
+
+.cabecalhoPrincipal .container {
+    flex-direction: column;
+    align-items: initial;
+    text-align: center;
+}
+
+.cabecalhoPrincipal-nav {
+    flex-direction: column;
+
+}
