@@ -73,6 +73,10 @@
         width: 100%;
     }
     
+    .cabecalhoPrincipal-nav-link-app {
+        order: -1;
+    }
+
     .rodapePrincipal-navMap-list {
         height: auto;
     }
