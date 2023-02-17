@@ -28,6 +28,26 @@
     margin-left: 0;
 }
 
+/*VIDEO SOBRE*/
+.videoSobre .container {
+    display: flex;
+}
+
+.videoSobre-sobre {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    flex-grow: 1;
+}
+
+.videoSobre-video{
+    flex-grow: 1;
+}
+
+.videoSobre-sobre-list {
+    flex-grow: 1;
+}
+
 /*MAPA CURSOS*/
 .rodapePrincipal-navMap-list {
     display: flex;
